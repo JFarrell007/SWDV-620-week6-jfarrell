@@ -1,0 +1,6 @@
+This a test file that was read with PHP.
+
+Your Class contains 8 modules.
+You have completed 6 modules.
+I should use a database for a Web applications.
+I'm running out of things to say.
